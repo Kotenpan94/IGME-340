@@ -1,0 +1,20 @@
+[
+    {
+        "question": "What is my name?",
+        "answers": {
+            "Gabriel": true,
+            "Jake": false,
+            "Spencer": false,
+            "Nick": false
+        }
+    },
+    {
+        "question": "What is my cat's name?",
+        "answers": {
+            "Harry": false,
+            "Cosmo": false,
+            "Hunter": true,
+            "Rufus": false
+        }
+    }
+]

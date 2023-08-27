@@ -1,0 +1,103 @@
+[
+    {
+        "question": "What is my name?",
+        "answers": {
+            "Gabriel": true,
+            "Jake": false,
+            "Spencer": false,
+            "Nick": false
+        }
+    },
+    {
+        "question": "What is the name of my cat?",
+        "answers": {
+            "Harry": false,
+            "Cosmo": false,
+            "Hunter": true,
+            "Rufus": false
+        }
+    },
+
+    {
+        "question": "What is the capital of the USA?",
+        "answers": {
+            "Washington": false,
+            "Washington DC": true,
+            "Montana": false,
+            "New York City": false
+        }
+    },
+    {
+        "question": "What is (2 x 4) x 8?",
+        "answers": {
+            "64": true,
+            "32": false,
+            "66": false,
+            "200": false
+        }
+    },
+    {
+        "question": "Who invented daylight saving times?",
+        "answers": {
+            "George Washington": false,
+            "Benjamin Franklin": false,
+            "George Hudson": true,
+            "Thomas Edison": false
+        }
+    },
+    {
+        "question": "What is the color with the Hex code of #FFFFFF?",
+        "answers": {
+            "Black": false,
+            "Red": false,
+            "Green": false,
+            "White": true
+        }
+    },
+    {
+        "question": "If Mario has his opposite Wario, then Luigi has who?",
+        "answers": {
+            "Weegee": false,
+            "Waluigi": true,
+            "Bowser": false,
+            "Wawaluigi": false
+        }
+    },
+    {
+        "question": "What holiday is celebrates the Jewish new year?",
+        "answers": {
+            "Rosh Hashanah": true,
+            "Yom Kipur": false,
+            "Shabbat": false,
+            "Passover": false
+        }
+    },
+    {
+        "question": "What game is made by the game company Mihoyo?",
+        "answers": {
+            "Granblue Fantasy": false,
+            "Fire Emblem Heroes": false,
+            "Genshin Impact": true,
+            "Doki Doki Literature Club": false
+        }
+    },
+    {
+        "question": "Who is the main protoganist of the game, Xenoblade Chronicles 2?",
+        "answers": {
+            "Shulk": false,
+            "Rex": true,
+            "Matthew": false,
+            "Mio": false
+        }
+    },
+    {
+        "question": "What instrument is not a part of the brass family?",
+        "answers": {
+            "Clarinet": true,
+            "Tuba": false,
+            "French Horn": false,
+            "Trumpet": false
+        }
+    }
+    
+]
